@@ -1565,4 +1565,7 @@ $Header: /usr/local/cvsrep/documentation-template/output.lisp,v 1.14 2008/05/29 
 (db.run-command :drop :collection COLLETION-NAME)
 </p>
 
+<p>run-command
+<a href="http://www.mongodb.org/display/DOCS/List+of+Database+Commands">list of commands on mongo website</a>
+</p>
 </body>
