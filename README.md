@@ -1560,4 +1560,9 @@ This documentation was prepared with <a href="http://weitz.de/documentation-temp
 $Header: /usr/local/cvsrep/documentation-template/output.lisp,v 1.14 2008/05/29 08:23:37 edi Exp $
 <p><a href="http://www.mohegan-skunkworks.com/index.html">BACK TO MY HOMEPAGE</a>
 
+<h2> comments </h2>
+<p>drop collection<br/>
+(db.run-command :drop :collection COLLETION-NAME)
+</p>
+
 </body>
